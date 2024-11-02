@@ -84,9 +84,6 @@ class TechInnovator:
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=eklavyabytesquad&theme=highcontrast&hide_border=true&background=0D1117&ring=00FF00&fire=FF3D00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
-<!-- Neural Network Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
-
 </div>
 
 ## 🎯 Innovation Timeline

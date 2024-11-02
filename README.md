@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <!-- AI-themed Header Animation -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
@@ -88,26 +87,6 @@ class TechInnovator:
 <!-- Neural Network Animation -->
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
 
-<!-- Animated Profile Views Counter -->
-<div align="center">
-    <a href="https://github.com/eklavyabytesquad">
-        <img src="https://img.shields.io/badge/Profile%20Views-loading...-00FF00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRiI+PHBhdGggZD0iTTEyIDRjNC40MTggMCA4IDMuNTgyIDggOHMtMy41ODIgOC04IDgtOC0zLjU4Mi04LTggMy41ODItOCA4LTh6bTAtMkM2LjQ3NyAyIDIgNi40NzcgMiAxMnM0LjQ3NyAxMCAxMCAxMCAxMC00LjQ3NyAxMC0xMFMxNy41MjMgMiAxMiAyem0wIDE2Yy0zLjMxNCAwLTYtMi42ODYtNi02czIuNjg2LTYgNi02IDYgMi42ODYgNiA2LTIuNjg2IDYtNiA2eiIvPjwvc3ZnPg==" alt="views"/>
-    </a>
-    <!-- Custom Animated Stats Bar -->
-    <div>
-        <img src="https://profile-counter.glitch.me/eklavyabytesquad/count.svg" alt="Visitor Count" style="background: linear-gradient(to right, #000000, #0D1117); border-radius: 5px; padding: 5px; margin: 5px;"/>
-    </div>
-    <!-- Animated Matrix Border -->
-    <a href="https://github.com/eklavyabytesquad">
-        <img src="https://komarev.com/ghpvc/?username=eklavyabytesquad&style=for-the-badge&color=brightgreen&label=PROFILE+MATRIX+INITIALIZED" alt="Matrix Counter"/>
-    </a>
-</div>
-
-<!-- Glitch Line -->
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
-</div>
-
 </div>
 
 ## 🎯 Innovation Timeline
@@ -118,9 +97,6 @@ class TechInnovator:
 - 🚀 Led technical architecture for enterprise solutions
 - 🌟 Created autonomous deployment pipelines
 - 🔑 Expertise in scalable microservices architecture
-
-<!-- Cyber Grid Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%">
 
 ## 🌠 Digital Nexus
 
@@ -138,30 +114,10 @@ class TechInnovator:
   <img src="https://github-profile-trophy.vercel.app/?username=eklavyabytesquad&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15"/>
 </div>
 
+<!-- Circuit Board Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 <div align="center">
-<!-- Animated Profile Views Counter -->
-<div align="center">
-    <a href="https://github.com/eklavyabytesquad">
-        <img src="https://img.shields.io/badge/Profile%20Views-loading...-00FF00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRiI+PHBhdGggZD0iTTEyIDRjNC40MTggMCA4IDMuNTgyIDggOHMtMy41ODIgOC04IDgtOC0zLjU4Mi04LTggMy41ODItOCA4LTh6bTAtMkM2LjQ3NyAyIDIgNi40NzcgMiAxMnM0LjQ3NyAxMCAxMCAxMCAxMC00LjQ3NyAxMC0xMFMxNy41MjMgMiAxMiAyem0wIDE2Yy0zLjMxNCAwLTYtMi42ODYtNi02czIuNjg2LTYgNi02IDYgMi42ODYgNiA2LTIuNjg2IDYtNiA2eiIvPjwvc3ZnPg==" alt="views"/>
-    </a>
-    <!-- Custom Animated Stats Bar -->
-    <div>
-        <img src="https://profile-counter.glitch.me/eklavyabytesquad/count.svg" alt="Visitor Count" style="background: linear-gradient(to right, #000000, #0D1117); border-radius: 5px; padding: 5px; margin: 5px;"/>
-    </div>
-    <!-- Animated Matrix Border -->
-    <a href="https://github.com/eklavyabytesquad">
-        <img src="https://komarev.com/ghpvc/?username=eklavyabytesquad&style=for-the-badge&color=brightgreen&label=PROFILE+MATRIX+INITIALIZED" alt="Matrix Counter"/>
-    </a>
-</div>
-
-<!-- Futuristic Grid Animation -->
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/240885342-71aabea4-e376-4fff-8438-778edf55db0a.gif" width="400" alt="matrix"/>
-</div>
-
-<!-- Neon Pulse Line -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Binary Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer&text=01010100%2001001000%2001000001%2001001110%2001001011%2001010011&fontSize=12&fontColor=00FF00&animation=twinkling&fontAlignY=80"/>

@@ -83,9 +83,28 @@ class TechInnovator:
 </a>
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=eklavyabytesquad&theme=highcontrast&hide_border=true&background=0D1117&ring=00FF00&fire=FF3D00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<!-- Animated Profile Views Counter -->
+<div align="center">
+    <a href="https://github.com/eklavyabytesquad">
+        <img src="https://img.shields.io/badge/Profile%20Views-loading...-00FF00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRiI+PHBhdGggZD0iTTEyIDRjNC40MTggMCA4IDMuNTgyIDggOHMtMy41ODIgOC04IDgtOC0zLjU4Mi04LTggMy41ODItOCA4LTh6bTAtMkM2LjQ3NyAyIDIgNi40NzcgMiAxMnM0LjQ3NyAxMCAxMCAxMCAxMC00LjQ3NyAxMC0xMFMxNy41MjMgMiAxMiAyem0wIDE2Yy0zLjMxNCAwLTYtMi42ODYtNi02czIuNjg2LTYgNi02IDYgMi42ODYgNiA2LTIuNjg2IDYtNiA2eiIvPjwvc3ZnPg==" alt="views"/>
+    </a>
+    <!-- Custom Animated Stats Bar -->
+    <div>
+        <img src="https://profile-counter.glitch.me/eklavyabytesquad/count.svg" alt="Visitor Count" style="background: linear-gradient(to right, #000000, #0D1117); border-radius: 5px; padding: 5px; margin: 5px;"/>
+    </div>
+    <!-- Animated Matrix Border -->
+    <a href="https://github.com/eklavyabytesquad">
+        <img src="https://komarev.com/ghpvc/?username=eklavyabytesquad&style=for-the-badge&color=brightgreen&label=PROFILE+MATRIX+INITIALIZED" alt="Matrix Counter"/>
+    </a>
+</div>
 
-<!-- Neural Network Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+<!-- Futuristic Grid Animation -->
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/240885342-71aabea4-e376-4fff-8438-778edf55db0a.gif" width="400" alt="matrix"/>
+</div>
+
+<!-- Neon Pulse Line -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 </div>
 

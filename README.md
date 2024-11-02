@@ -10,7 +10,7 @@
 ```javascript
 const eklavya = {
     education: "IIT Madras",
-    currentlyWorking: "Software Development Engineer @ BytesQuad",
+    currentlyWorking: "Software Development Engineer @ Miniture",
     currentlyLearning: ["AI/ML", "DevOps", "System Design"],
     location: "Chennai, India",
     workingOn: "E-commerce Platform with AI Integration",

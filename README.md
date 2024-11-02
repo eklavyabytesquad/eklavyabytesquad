@@ -1,5 +1,7 @@
 <div align="center">
 
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+
 <!-- AI-themed Header Animation -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
@@ -84,6 +86,19 @@ class TechInnovator:
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=eklavyabytesquad&theme=highcontrast&hide_border=true&background=0D1117&ring=00FF00&fire=FF3D00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
+<!-- Neural Network Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+
+<!-- Cyberpunk Profile Views Counter -->
+<div align="center">
+    <img src="https://count.getloli.com/get/@eklavyabytesquad?theme=rule34" alt="Profile Views" width="300"/>
+</div>
+
+<!-- Glitch Line -->
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
+</div>
+
 </div>
 
 ## 🎯 Innovation Timeline
@@ -94,6 +109,9 @@ class TechInnovator:
 - 🚀 Led technical architecture for enterprise solutions
 - 🌟 Created autonomous deployment pipelines
 - 🔑 Expertise in scalable microservices architecture
+
+<!-- Cyber Grid Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%">
 
 ## 🌠 Digital Nexus
 

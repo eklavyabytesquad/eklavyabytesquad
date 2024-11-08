@@ -5,7 +5,7 @@
 
 # ⚡ EKLAVYA SINGH ⚡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%92%A1+Full+Stack+Architect;%F0%9F%A4%96+AI+Explorer;%F0%9F%8C%90+Tech+Innovator;%F0%9F%94%AE+Future+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%92%A1+Full+Stack+Architect;%F0%9F%A4%96+AI+Explorer;%F0%9F%8C%90+Tech+Innovator;%F0%9F%94%AE+Future+Builder;%F0%9F%8E%AF+Prompt+Engineer)](https://git.io/typing-svg)
 
 <!-- Neon Pulse Line -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -49,6 +49,7 @@ class TechInnovator:
 [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000)](#) 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#) 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)](#)
+[![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white&labelColor=000000)](#)
 
 ### 🔮 Style Forge
 [![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000)](#)
@@ -63,10 +64,21 @@ class TechInnovator:
 [![Hasura](https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white&labelColor=000000)](#)
 
 ### 🛠 Neural Tools
+[![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000)](#)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](#)
+[![Zoho Cliq](https://img.shields.io/badge/Zoho_Cliq-E42527?style=for-the-badge&logo=zoho&logoColor=white&labelColor=000000)](#)
+[![Huly](https://img.shields.io/badge/Huly-FF6B6B?style=for-the-badge&logo=h&logoColor=white&labelColor=000000)](#)
+
+### 🎨 Creative Suite
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000)](#)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=000000)](#)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=000000)](#)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=000000)](#)
+
+### 🤖 AI Expertise
+[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF4088?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)](#)
+[![Claude](https://img.shields.io/badge/Claude_Expert-000000?style=for-the-badge&logo=anthropic&logoColor=white)](#)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT_Master-00A67E?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)](#)
 
 </div>
 
@@ -83,22 +95,19 @@ class TechInnovator:
 </a>
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=eklavyabytesquad&theme=highcontrast&hide_border=true&background=0D1117&ring=00FF00&fire=FF3D00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-<!-- Animated Profile Views Counter -->
+
 <div align="center">
     <a href="https://github.com/eklavyabytesquad">
         <img src="https://img.shields.io/badge/Profile%20Views-loading...-00FF00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRiI+PHBhdGggZD0iTTEyIDRjNC40MTggMCA4IDMuNTgyIDggOHMtMy41ODIgOC04IDgtOC0zLjU4Mi04LTggMy41ODItOCA4LTh6bTAtMkM2LjQ3NyAyIDIgNi40NzcgMiAxMnM0LjQ3NyAxMCAxMCAxMCAxMC00LjQ3NyAxMC0xMFMxNy41MjMgMiAxMiAyem0wIDE2Yy0zLjMxNCAwLTYtMi42ODYtNi02czIuNjg2LTYgNi02IDYgMi42ODYgNiA2LTIuNjg2IDYtNiA2eiIvPjwvc3ZnPg==" alt="views"/>
     </a>
-    <!-- Custom Animated Stats Bar -->
     <div>
         <img src="https://profile-counter.glitch.me/eklavyabytesquad/count.svg" alt="Visitor Count" style="background: linear-gradient(to right, #000000, #0D1117); border-radius: 5px; padding: 5px; margin: 5px;"/>
     </div>
-    <!-- Animated Matrix Border -->
     <a href="https://github.com/eklavyabytesquad">
         <img src="https://komarev.com/ghpvc/?username=eklavyabytesquad&style=for-the-badge&color=brightgreen&label=PROFILE+MATRIX+INITIALIZED" alt="Matrix Counter"/>
     </a>
 </div>
 
-<!-- Futuristic Grid Animation -->
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/240885342-71aabea4-e376-4fff-8438-778edf55db0a.gif" width="400" alt="matrix"/>
 </div>
@@ -116,6 +125,11 @@ class TechInnovator:
 - 🚀 Led technical architecture for enterprise solutions
 - 🌟 Created autonomous deployment pipelines
 - 🔑 Expertise in scalable microservices architecture
+- 🎨 Managed and optimized multiple Shopify stores
+- 📝 Expert in Notion workspace organization and automation
+- 🤖 Advanced prompt engineering for AI models
+- 🎬 3D modeling and animation with Blender
+- 🎯 Digital content creation with Canva
 
 ## 🌠 Digital Nexus
 

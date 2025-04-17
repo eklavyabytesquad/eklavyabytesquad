@@ -137,7 +137,7 @@ class TechInnovator:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/eklavyasinghweb)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00FF00&labelColor=000000)](https://eklavyadev.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00FF00&labelColor=000000)](https://theeklavyasingh.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000)](https://github.com/eklavyabytesquad)
 
 </div>
